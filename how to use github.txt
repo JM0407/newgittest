@@ -41,5 +41,13 @@ Branching and Merging
 8. then set upstream branch using git push --set-upstream <name of the new branch>
 9. git push to push the changes in the <name of the new branch>
 
+Clone the branch and apply changes to the branch
+
+1. use mkdir <folder name> this is used to create folder
+2. git clone https://github.com/JM0407/newgittest.git
+3. navigate again to the clone repository
+4. git checkout <branch name>
+
+
 
 
