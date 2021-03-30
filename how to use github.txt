@@ -20,16 +20,24 @@ Steps:
 13. 
 
 
-
 workflow
 1. git pull first
 2. if you commit with to message just ( click escp then type :wq)
 3. git push  
 
-
+==============================================================================================================================
 
 Pull request, branching, merging and team workflow 
 
+Branching
+
+1. always git pull first
+2. git branch : ths is to check the branches
+3. git branch <name of the new branch>
+4. git checkout <name of the branch> : use to switch branch
+5. go back to the main branch and check changes
+6. if changes are made in the main branch , go back to the <name of the new branch>
+7. git merge main
 
 
 
