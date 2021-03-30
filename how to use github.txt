@@ -29,7 +29,7 @@ workflow
 
 Pull request, branching, merging and team workflow 
 
-Branching
+Branching and Merging
 
 1. always git pull first
 2. git branch : ths is to check the branches
@@ -38,6 +38,8 @@ Branching
 5. go back to the main branch and check changes
 6. if changes are made in the main branch , go back to the <name of the new branch>
 7. git merge main
+8. then set upstream branch using git push --set-upstream <name of the new branch>
+9. git push to push the changes in the <name of the new branch>
 
 
 
