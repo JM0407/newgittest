@@ -56,5 +56,14 @@ Pull request
 4. then deploy
 
 
+Mostly used Commands
+1. git clone <url of repository>
+2. git status
+3. git add -A
+4. git commit -m "message"
+5. git push
+6. git pull
+7. git merge <main or master>
+8. git check out <branch name>
 
 
