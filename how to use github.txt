@@ -1,0 +1,30 @@
+How to use GitHub
+
+What is Source control?
+- this is to update realtime changes , also to manage working in a large group on the same project
+- sync up to the repository
+
+Steps:
+1. Sign in to github
+2. Download github desktop app or install gitbash
+3. Create new repository ( initialized repository with a readme)
+4. Under code , copy the repository url
+5. run cmd on your local computer ( or git bash)
+6. cd .. to up, cd to down , dir for directory ( ls for gitbash)
+7. git clone https://github.com/JM0407/newgittest.git example
+8. inside the git directory  ( git status : this is to check the difference between  your file and the file inside the git hub repository)
+9. git add : this is to add any changes in the repository ( like new file) , git add -a : add all changes from your directory
+10. git commit -m "message" 
+11. git push : to save it to the cloud repository , git pull: to sync with the repository
+12. authorize git credential manager
+13. 
+
+
+
+workflow
+1. git pull first
+2. if you commit with to message just ( click escp then type :wq)
+3. 
+
+
+
