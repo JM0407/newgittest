@@ -48,6 +48,13 @@ Clone the branch and apply changes to the branch
 3. navigate again to the clone repository
 4. git checkout <branch name>
 
+Pull request
+
+1. Go to github web repository
+2. go to the branch with commits
+3. Click compare and create pull request (Code Review)
+4. 
+
 
 
 
