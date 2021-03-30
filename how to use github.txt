@@ -24,7 +24,12 @@ Steps:
 workflow
 1. git pull first
 2. if you commit with to message just ( click escp then type :wq)
-3. 
+3. git push  
+
+
+
+Pull request, branching, merging and team workflow 
+
 
 
 
